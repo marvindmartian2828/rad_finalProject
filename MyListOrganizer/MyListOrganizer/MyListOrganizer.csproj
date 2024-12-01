@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\addfall.png" />
+    <None Remove="Images\addspring.png" />
+    <None Remove="Images\addsummer.png" />
+    <None Remove="Images\addwinter.png" />
+    <None Remove="Images\editfall.png" />
+    <None Remove="Images\editspring.png" />
+    <None Remove="Images\editsummer.png" />
+    <None Remove="Images\editwinter.png" />
+    <None Remove="Images\maindefault.png" />
+    <None Remove="Images\mainfall.png" />
+    <None Remove="Images\mainspring.png" />
+    <None Remove="Images\mainsummer.png" />
+    <None Remove="Images\mainwinter.png" />
+    <None Remove="Images\notesfall.png" />
+    <None Remove="Images\notesspring.png" />
+    <None Remove="Images\notessummer.png" />
+    <None Remove="Images\noteswinter.png" />
+    <None Remove="Images\remindfall.png" />
+    <None Remove="Images\remindspring.png" />
+    <None Remove="Images\remindsummer.png" />
+    <None Remove="Images\remindwinter.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\addfall.png" />
+    <EmbeddedResource Include="Images\addspring.png" />
+    <EmbeddedResource Include="Images\addsummer.png" />
+    <EmbeddedResource Include="Images\addwinter.png" />
+    <EmbeddedResource Include="Images\editfall.png" />
+    <EmbeddedResource Include="Images\editspring.png" />
+    <EmbeddedResource Include="Images\editsummer.png" />
+    <EmbeddedResource Include="Images\editwinter.png" />
+    <EmbeddedResource Include="Images\maindefault.png" />
+    <EmbeddedResource Include="Images\mainfall.png" />
+    <EmbeddedResource Include="Images\mainspring.png" />
+    <EmbeddedResource Include="Images\mainsummer.png" />
+    <EmbeddedResource Include="Images\mainwinter.png" />
+    <EmbeddedResource Include="Images\notesfall.png" />
+    <EmbeddedResource Include="Images\notesspring.png" />
+    <EmbeddedResource Include="Images\notessummer.png" />
+    <EmbeddedResource Include="Images\noteswinter.png" />
+    <EmbeddedResource Include="Images\remindfall.png" />
+    <EmbeddedResource Include="Images\remindspring.png" />
+    <EmbeddedResource Include="Images\remindsummer.png" />
+    <EmbeddedResource Include="Images\remindwinter.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

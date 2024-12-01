@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|c:\\users\\leona\\onedrive\\aral - canada\\bvc\\fall 2024\\1 - rapid application development_sodv2101_24sepmnos4\\project\\final project\\mylistorganizer\\mylistorganizer\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|solutionrelative:mylistorganizer\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|c:\\users\\leona\\onedrive\\aral - canada\\bvc\\fall 2024\\1 - rapid application development_sodv2101_24sepmnos4\\project\\final project\\mylistorganizer\\mylistorganizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|solutionrelative:mylistorganizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|c:\\users\\leona\\onedrive\\aral - canada\\bvc\\fall 2024\\1 - rapid application development_sodv2101_24sepmnos4\\project\\final project\\mylistorganizer\\mylistorganizer\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|solutionrelative:mylistorganizer\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|c:\\users\\leona\\onedrive\\aral - canada\\bvc\\fall 2024\\1 - rapid application development_sodv2101_24sepmnos4\\project\\final project\\mylistorganizer\\mylistorganizer\\taskcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|solutionrelative:mylistorganizer\\taskcreationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|c:\\users\\leona\\onedrive\\aral - canada\\bvc\\fall 2024\\1 - rapid application development_sodv2101_24sepmnos4\\project\\final project\\mylistorganizer\\mylistorganizer\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81348AC3-E6AC-414F-B356-6EF7E74B0BB2}|MyListOrganizer\\MyListOrganizer.csproj|solutionrelative:mylistorganizer\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Theme.cs",
+              "RelativeDocumentMoniker": "MyListOrganizer\\Theme.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Theme.cs",
+              "RelativeToolTip": "MyListOrganizer\\Theme.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:54:07.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskCreationForm.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\TaskCreationForm.cs",
+              "RelativeDocumentMoniker": "MyListOrganizer\\TaskCreationForm.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\TaskCreationForm.cs",
+              "RelativeToolTip": "MyListOrganizer\\TaskCreationForm.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAkwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:52:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Task.cs",
+              "RelativeDocumentMoniker": "MyListOrganizer\\Task.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Task.cs",
+              "RelativeToolTip": "MyListOrganizer\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:48:27.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesForm.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\NotesForm.cs",
+              "RelativeDocumentMoniker": "MyListOrganizer\\NotesForm.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\NotesForm.cs",
+              "RelativeToolTip": "MyListOrganizer\\NotesForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:26:25.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Program.cs",
+              "RelativeDocumentMoniker": "MyListOrganizer\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\OneDrive\\Aral - Canada\\BVC\\Fall 2024\\1 - Rapid Application Development_SODV2101_24SEPMNOS4\\Project\\Final Project\\MyListOrganizer\\MyListOrganizer\\Program.cs",
+              "RelativeToolTip": "MyListOrganizer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:52:06.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
